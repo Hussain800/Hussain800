@@ -1,129 +1,48 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently building applied AI systems across governed agents, geospatial analytics, healthcare prototypes, and robotics.<br><br>
+👯 I’m looking to collaborate on robotics builds, ML tools, and products where software has to survive real-world constraints.<br><br>
+🤝 I’m looking for help with turning strong prototypes into reliable products — better infrastructure, cleaner UX, stronger testing, and real users who expose edge cases.<br><br>
+🌱 I’m currently learning AI system architecture, applied ML, agentic workflows, robotics control, and production-grade software engineering.<br><br>
+⚡ Fun fact: I like building things that move, sense, think, or occasionally refuse to work for no obvious reason.
 
-# Hussain Sabuwala
 
-### Robotics & AI Engineering Student · AI Systems Builder · Backend / Applied ML / GovTech / ClimateTech
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hs11/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussain.sabuwala@outlook.com)
 
-I build engineering-heavy AI systems that connect machine learning, backend architecture, data pipelines, and real-world decision workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hussain800-181717?style=flat-square&logo=github)](https://github.com/Hussain800)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussain%20Sabuwala-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111827?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:hussain.sabuwala@outlook.com)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-## About Me
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-I am a Robotics & AI engineering student at the University of Birmingham Dubai, focused on building practical AI systems that are technically deep, explainable, and usable in real-world environments.
 
-My work sits at the intersection of:
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=Hussain800&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain800&theme=dark&hide_border=true&layout=compact)
 
-- **Applied AI / ML** — physics-informed models, intelligent agents, decision systems, and data-driven prediction.
-- **Backend Engineering** — FastAPI services, typed APIs, deterministic policy engines, testing, and deployment.
-- **Data Engineering** — geospatial pipelines, satellite data processing, dashboards, and analytics workflows.
-- **Robotics & Automation** — embedded systems, Arduino-based builds, control logic, and hardware-software integration.
-
-I care about building systems that are not just impressive in a demo, but also traceable, testable, and architecturally sound.
-
----
-
-## Selected Work
-
-### Agent Sanad — Governed AI Casework System  
-**GovTech · AI Agents · FastAPI · Pydantic · Deterministic Policy Engine**
-
-Agent Sanad is an agentic casework system for housing-loan arrears rescheduling, designed around a strict responsibility boundary:
-
-> LLMs read and explain. Deterministic code decides. Human officers own exceptions.
-
-The system combines policy logic, evidence validation, typed contracts, audit trails, and a human-in-the-loop workflow to support high-stakes government decision-making without giving the language model control over financial outcomes.
-
-**Highlights**
-- Deterministic policy engine for sensitive decision logic.
-- FastAPI backend with typed schemas and structured API surfaces.
-- Evidence-linked decisions with auditability and exception routing.
-- Production-shaped prototype built for a government hackathon context.
-
-**Repository:** [Agent-Sanad](https://github.com/Hussain800/Agent-Sanad)
 
 ---
-
-### Dubai Urban Heat Stress Analysis  
-**ClimateTech · Google Earth Engine · Geospatial Analytics · Streamlit**
-
-A climate and urban analytics project studying Dubai’s heat stress patterns using satellite-derived environmental data, geospatial processing, and dashboard-based visualization.
-
-**Highlights**
-- Multi-layer geospatial data pipeline.
-- Heat exposure and hotspot analysis.
-- Correlation and trend analysis across environmental indicators.
-- Interactive dashboard for communicating spatial climate risk.
-
-**Repository:** [Dubai-Urban-Heat-Stress-Analysis](https://github.com/Hussain800/Dubai-Urban-Heat-Stress-Analysis)
-
----
-
-### Jacobi  
-**AI SaaS · Full-Stack · Auth · Billing · Probe Infrastructure**
-
-Jacobi is an AI/web systems project focused on automated probing, productized backend workflows, and SaaS-style infrastructure.
-
-**Highlights**
-- Full-stack deployment workflow.
-- Authentication and billing architecture.
-- Backend/frontend integration.
-- Built as a practical product-style system rather than only a prototype.
-
-**Repositories:**  
-- [Jacobi_v2](https://github.com/Hussain800/Jacobi_v2)  
-- [Jacobi_mark3](https://github.com/Hussain800/Jacobi_mark3)
-
----
-
-## Engineering Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql)
-
-### Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi)
-![Pydantic](https://img.shields.io/badge/Pydantic-111827?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square)
-
-### AI / ML / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas)
-![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-111827?style=flat-square&logo=googleearth)
-
-### Frontend & Deployment
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-111827?style=flat-square&logo=render)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions)
-
-### Robotics / Hardware
-![Arduino](https://img.shields.io/badge/Arduino-111827?style=flat-square&logo=arduino)
-![Robotics](https://img.shields.io/badge/Robotics-111827?style=flat-square)
-![Control Systems](https://img.shields.io/badge/Control%20Systems-111827?style=flat-square)
-
----
-
-## What I Like Building
-
-```txt
-AI systems with real architecture.
-Backend services that are typed, tested, and explainable.
-Dashboards that turn complex data into usable decisions.
-Robotics projects that connect software to the physical world.
+[![](https://komarev.com/ghpvc/?username=Hussain800&icon=0&color=0)](https://visitcount.itsvg.in)
