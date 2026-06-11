@@ -22,7 +22,7 @@
 <div align="center">
 
 <a href="https://github.com/Hussain800/Agent-Sanad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussain800&repo=Agent-Sanad&bg_color=0B1220&title_color=22C55E&text_color=A9B8D4&icon_color=22C55E&border_color=1E293B" alt="Agent Sanad"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussain800&repo=Agent-Sanad&bg_color=0B1220&title_color=22C55E&text_color=A9B8D4&icon_color=22C55E&border_color=1E293B&cache_seconds=14400" alt="Agent Sanad"/>
 </a>
 <a href="https://github.com/Hussain800/Dubai-Urban-Heat-Stress-Analysis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussain800&repo=Dubai-Urban-Heat-Stress-Analysis&bg_color=0B1220&title_color=22C55E&text_color=A9B8D4&icon_color=22C55E&border_color=1E293B" alt="Dubai Urban Heat Stress Analysis"/>
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussain800&repo=Project-Urban&bg_color=0B1220&title_color=22C55E&text_color=A9B8D4&icon_color=22C55E&border_color=1E293B" alt="Project Urban"/>
 </a>
 <a href="https://github.com/Hussain800/Jacobi_mark3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussain800&repo=Jacobi_mark3&bg_color=0B1220&title_color=22C55E&text_color=A9B8D4&icon_color=22C55E&border_color=1E293B" alt="Jacobi mark 3"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hussain800&repo=Jacobi_mark3&bg_color=0B1220&title_color=22C55E&text_color=A9B8D4&icon_color=22C55E&border_color=1E293B&cache_seconds=14400" alt="Jacobi mark 3"/>
 </a>
 
 </div>
