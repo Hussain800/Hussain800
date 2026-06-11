@@ -66,24 +66,6 @@ A climate and urban analytics project studying Dubai’s heat stress patterns us
 
 ---
 
-### CardioFlow AI  
-**Healthcare AI · PINNs · CTCA · Physics-Informed Modeling**
-
-CardioFlow AI explores non-invasive coronary flow analysis using physics-informed neural networks to estimate FFR-style insights from CT coronary angiography data.
-
-**Highlights**
-- Physics-informed modeling for pressure and flow estimation.
-- Focus on reducing dependency on slow CFD-style workflows.
-- Medical AI concept combining computational physics, ML, and clinical workflow thinking.
-- Dashboard prototype for scan-to-insight visualization.
-
-**Repositories:**  
-- [CardioFlowAI](https://github.com/Hussain800/CardioFlowAI)  
-- [flowtest](https://github.com/Hussain800/flowtest)  
-- [cardioflow-explainer](https://github.com/Hussain800/cardioflow-explainer)
-
----
-
 ### Jacobi  
 **AI SaaS · Full-Stack · Auth · Billing · Probe Infrastructure**
 
